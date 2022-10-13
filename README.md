@@ -3,10 +3,9 @@
 </div>  
   
 
-### <div align="center">I am Vojtěch Zouhar</div>  
   
  I’m currently learning Java and Javascript  
- I´m student of SPŠMB
+ I´m student of SPSMB
   
 
 <br/>  
