@@ -5,8 +5,7 @@
 
 ### <div align="center">I am Vojtěch Zouhar</div>  
   
-
-- 🌱 I’m currently learning Java and Javascript  
+ I’m currently learning Java and Javascript  
   
 
 <br/>  
