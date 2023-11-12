@@ -3,8 +3,9 @@
 </div>  
   
 
-  
- I’m currently learning Java and Javascript  
+ I really love to work with Networking in cisco packet tracer 
+ I’m currently learning Python
+ I know some basics of Java, Javascript, HTML5, CSS but i don´t enjoy programming 
  I´m student of SPSMB
   
 
