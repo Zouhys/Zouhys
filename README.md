@@ -3,7 +3,7 @@
 </div>  
   
 
- I really love to work with Networking in cisco packet tracer <br>
+ I really love to make stuff in cisco packet tracer <br>
  I’m currently learning Python <br>
  I know some basics of Java, Javascript, HTML5, CSS but i don´t enjoy programming <br> 
  I´m student of SPSMB <br>
